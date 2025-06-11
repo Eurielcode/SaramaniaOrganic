@@ -1,54 +1,18 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+Voici un **résumé du projet** **Saramania Organic – Restaurant Website** :
 
-  <br />
-  <br />
+---
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+### **Résumé du projet : Saramania Organic**
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+**Saramania Organic** est un site vitrine moderne et responsive conçu pour un restaurant spécialisé dans les produits bio et naturels. Le site offre une expérience fluide sur tous les types d’appareils (ordinateurs, tablettes, smartphones) grâce à une mise en page adaptative développée en **HTML**, **CSS** et **JavaScript**.
+Ce projet a été adapté et personnalisé pour refléter l’identité du restaurant **Saramania Organic**, avec une attention particulière à l’esthétique naturelle, la simplicité d’utilisation, et la mise en valeur des plats.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+Le site présente :
 
-</div>
+* Une **page d’accueil attrayante** avec un slogan et des visuels engageants.
+* Une section **menu** mettant en avant les plats biologiques du restaurant.
+* Des pages **à propos** et **contact** pour renforcer la confiance et permettre la prise de contact facile.
+* Une **interface utilisateur fluide** avec animations légères et navigation intuitive.
 
-<br />
+Le projet a été conçu par **Euriel Toviezon** et peut être utilisé comme vitrine en ligne, outil de réservation ou support pour la communication digitale du restaurant.
 
-### Demo Screeshots
-
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Grilli** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
